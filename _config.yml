@@ -1,0 +1,28 @@
+name: sonicrick
+favicon: null
+layout_spectrum: 0.08680053218267858
+typography_spectrum: 0.1158426171168685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5760734560899436
+  lightness: 0.4691942296922207
+  saturation: 0.7152584712021053
+  rhythmicContrast: 0.9989128338638693
+purpose: []
